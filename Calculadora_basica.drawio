@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net" modified="2024-03-12T21:10:54.227Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="udp1xE-2Kb3MzBR7UKeZ" version="24.0.4" type="device">
+  <diagram name="Página-1" id="pYA1NqAjqcuLZUVDE_KV">
+    <mxGraphModel dx="1242" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MLittPf0g-Sosn9I_uOj-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MLittPf0g-Sosn9I_uOj-6" target="MLittPf0g-Sosn9I_uOj-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MLittPf0g-Sosn9I_uOj-1" value="INICIO" style="ellipse;whiteSpace=wrap;html=1;fillColor=#5EA9FF;" vertex="1" parent="1">
+          <mxGeometry x="10" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MLittPf0g-Sosn9I_uOj-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MLittPf0g-Sosn9I_uOj-2" target="MLittPf0g-Sosn9I_uOj-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MLittPf0g-Sosn9I_uOj-2" value="&quot;Ingrese el primer numero&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#3CFF2E;" vertex="1" parent="1">
+          <mxGeometry x="414" y="50" width="136" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MLittPf0g-Sosn9I_uOj-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MLittPf0g-Sosn9I_uOj-4" target="MLittPf0g-Sosn9I_uOj-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MLittPf0g-Sosn9I_uOj-4" value="&quot;Ingrese el segundo numero&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#3CFF2E;" vertex="1" parent="1">
+          <mxGeometry x="630" y="50" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MLittPf0g-Sosn9I_uOj-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MLittPf0g-Sosn9I_uOj-1" target="MLittPf0g-Sosn9I_uOj-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="80" as="sourcePoint" />
+            <mxPoint x="424" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MLittPf0g-Sosn9I_uOj-6" value="&quot;Dar mensaje de bienvenida&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#3CFF2E;" vertex="1" parent="1">
+          <mxGeometry x="190" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MLittPf0g-Sosn9I_uOj-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MLittPf0g-Sosn9I_uOj-8" target="MLittPf0g-Sosn9I_uOj-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MLittPf0g-Sosn9I_uOj-8" value="Realizar la operación seleccionada&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#3CFF2E;" vertex="1" parent="1">
+          <mxGeometry x="620" y="190" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MLittPf0g-Sosn9I_uOj-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MLittPf0g-Sosn9I_uOj-10" target="MLittPf0g-Sosn9I_uOj-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MLittPf0g-Sosn9I_uOj-10" value="&quot;Mostrar resultado en pantalla&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#3CFF2E;" vertex="1" parent="1">
+          <mxGeometry x="620" y="330" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MLittPf0g-Sosn9I_uOj-13" value="FIN" style="ellipse;whiteSpace=wrap;html=1;fillColor=#5EA9FF;" vertex="1" parent="1">
+          <mxGeometry x="660" y="460" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
